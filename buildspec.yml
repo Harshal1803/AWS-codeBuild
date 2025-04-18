@@ -19,7 +19,7 @@ artifacts:
   files:
     - index.html
     - style.css
-    - scripts/**       # if you want to include your shell scripts
+    - scripts/**        # include shell scripts
     - appspec.yml
   discard-paths: no
-  base-directory: .
+  base-directory: .     # VERY IMPORTANT!
