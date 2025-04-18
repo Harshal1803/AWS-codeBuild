@@ -17,6 +17,9 @@ phases:
   
 artifacts:
   files:
-    - '**/*'
+    - index.html
+    - style.css
+    - scripts/**
+    - appspec.yml
   discard-paths: no
-  base-directory: build
+  base-directory: .

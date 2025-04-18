@@ -1,0 +1,10 @@
+/sys/
+/proc/
+/dev/
+/mnt/
+/media/
+/tmp/
+/root/
+/boot/
+/etc/
+/var/
